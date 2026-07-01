@@ -81,9 +81,10 @@ header nav ul li a{
     color:hsl(60, 100%, 50%);
 }
 .contact-container{
-    padding:100px;
+    padding:40px 20px;
     margin-bottom:30px;
-    color:red;
+    text-align:center;
+    color:#212529;
 }
 footer{
     height:80px;
