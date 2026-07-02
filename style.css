@@ -87,15 +87,13 @@ header nav ul li a{
     color:#212529;
     
 }
-/* .contact-section {
-    padding:40px 0;
-} */
-/* .contact-section  h2{
+.contact-section{
     text-align:center;
-    margin-bottom:20px;
-    color:#212529; */
+    padding:60px 20px;
+
 footer{
     height:80px;
+    padding:20px;
     display:flex;
     background-color:rgb(224,224,224);
     justify-content:space-around;
